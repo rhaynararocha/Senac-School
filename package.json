@@ -17,5 +17,13 @@
   "bugs": {
     "url": "https://github.com/rhaynararocha/Senac-School/issues"
   },
-  "homepage": "https://github.com/rhaynararocha/Senac-School#readme"
+  "homepage": "https://github.com/rhaynararocha/Senac-School#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "demon": "^0.0.1",
+    "no": "^0.0.1"
+  }
 }

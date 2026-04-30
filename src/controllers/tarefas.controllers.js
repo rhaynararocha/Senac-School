@@ -1,0 +1,1 @@
+const listar = (req, res) => {res.json([])}
